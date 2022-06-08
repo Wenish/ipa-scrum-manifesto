@@ -12,7 +12,7 @@
 
 ## Mittel und Methode
 
-## Vorkenntnisse
+## Vorkenntnisse
 
 ## Vorarbeiten
 
