@@ -44,11 +44,27 @@
 
 # Detaillietes Projektvorgehen
 
+## Projektmethode
+
+Agile Scrum
+
+## Definition of Ready (DoR)
+
+## Definition of Done (DoD)
+
 # IPA Projektorganisation
 
 ## Projektaufbauorganisation
 
 ## IPA Projektrollen
+
+Scrum Master
+
+Product Owner
+
+Team
+
+Stakeholder
 
 ## Personen und Kontaktdaten
 
@@ -75,3 +91,18 @@
 ## Schlussreflexion
 
 # Teil 2 - Individueller praktischer Teil
+
+# Product Backlog
+
+Analyse und Definition des Auftrags.
+
+# Sprint 1 Planning Meeting
+
+# Sprint 1 Backlog
+
+# Sprint 1 durchführung
+
+# Sprint 1 Review
+
+
+# Sprint 1 Retro
