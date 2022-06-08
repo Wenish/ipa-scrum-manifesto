@@ -1,4 +1,4 @@
-# showcase ipa
+# Showcase Agile Scrum IPA
 
 # Teil 1
 
