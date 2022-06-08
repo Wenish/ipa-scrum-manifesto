@@ -1,0 +1,2 @@
+# ipa-scrum-manifesto
+ 
