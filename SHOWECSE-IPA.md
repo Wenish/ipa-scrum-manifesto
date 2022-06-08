@@ -58,13 +58,13 @@ Agile Scrum
 
 ## IPA Projektrollen
 
-Scrum Master
+Scrum Master: Kandidat
 
-Product Owner
+Product Owner: Kandidat
 
-Team
+Team: Kandidat
 
-Stakeholder
+Stakeholder: Kandidat
 
 ## Personen und Kontaktdaten
 
