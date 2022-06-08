@@ -48,7 +48,7 @@
 
 Agile Scrum
 
-## Definition of Ready (DoR)
+## Definition of Ready (DoR)
 
 ## Definition of Done (DoD)
 
